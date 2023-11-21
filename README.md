@@ -2,7 +2,7 @@
 
 I'm a second year computer science and pure math student at the University of Waterloo. My current interests are ML, fullstack development, big data, and anything math! Have a look at some of the fun work I'm been doing, and come chat!
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
