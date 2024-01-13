@@ -27,9 +27,6 @@ I'm a second year computer science and pure math student at the University of Wa
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sophie-xie-3a3842276) 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sophiexie118@gmail.com) 
 
----
-[![](https://visitcount.itsvg.in/api?id=syfxie&icon=8&color=0)](https://visitcount.itsvg.in)
-
 <!--
 **syfxie/syfxie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
