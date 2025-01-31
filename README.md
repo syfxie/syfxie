@@ -1,6 +1,6 @@
 ### 👋 Hi there! I'm Sophie
 
-I'm a second year computer science and pure math student at the University of Waterloo. My current interests are ML, fullstack development, big data, and anything math! Have a look at some of the fun work I'm been doing, and come chat!
+I'm a third year computer science and pure math student at the University of Waterloo. My current interests are machine learning, multi-modal AI systems, backend, and and anything math! Have a look at some of the fun work I'm been doing, and come chat!
 
 ## 💻 Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
